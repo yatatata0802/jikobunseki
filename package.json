@@ -1,0 +1,27 @@
+{
+  "name": "元公安式・あなたの『人生脚本』タイプ別診断",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.5",
+    "react": "^19.1.0",
+    "react-confetti": "^6.4.0",
+    "react-dom": "^19.1.0",
+    "react-tsparticles": "^2.12.2",
+    "react-use": "^17.6.0",
+    "tsparticles": "^3.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0"
+  }
+}
